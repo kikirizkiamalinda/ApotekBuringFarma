@@ -1,0 +1,94 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+#site-navigation ul li:hover > a, #site-navigation ul li.current-menu-item > a, #site-navigation ul li.current_page_item > a, #site-navigation ul li.current_page_ancestor > a, #site-navigation ul li.current-menu-ancestor > a,#site-navigation ul.sub-menu li:hover > a,#site-navigation ul li ul.sub-menu li.menu-item-has-children ul li:hover > a,#site-navigation ul li ul.sub-menu li.menu-item-has-children:hover > .menu-item,body.transparent #masthead .header-bottom #site-navigation ul li:hover > .menu-item,body.transparent #masthead .header-bottom #site-navigation ul li:hover > a,body.transparent #masthead .header-bottom #site-navigation ul.sub-menu li:hover > a,body.transparent #masthead .header-bottom #site-navigation ul.sub-menu li.menu-item-has-children ul li:hover > a,body.transparent.header-sticky #masthead-sticky-wrapper #masthead .header-bottom #site-navigation ul.sub-menu li > a:hover,.tg-service-widget .service-title-wrap a:hover,.tg-service-widget .service-more,.feature-product-section .button-group button:hover ,.fun-facts-section .fun-facts-icon-wrap,.fun-facts-section .tg-fun-facts-widget.tg-fun-facts-layout-2 .counter-wrapper,.blog-section .tg-blog-widget-layout-2 .blog-content .read-more-container .read-more a,footer.footer-layout #top-footer .widget-title::first-letter,footer.footer-layout #top-footer .widget ul li a:hover,footer.footer-layout #bottom-footer .copyright .copyright-text a:hover,footer.footer-layout #bottom-footer .footer-menu ul li a:hover,.archive #primary .entry-content-block h2.entry-title a:hover,.blog #primary .entry-content-block h2.entry-title a:hover,#secondary .widget ul li a:hover,.woocommerce-Price-amount.amount,.team-wrapper .team-content-wrapper .team-social a:hover,.testimonial-container .testimonial-wrapper .testimonial-slide .testominial-content-wrapper .testimonial-icon,.footer-menu li a:hover,.tg-feature-product-filter-layout .button.is-checked:hover,.testimonial-container .testimonial-icon,#site-navigation ul li.menu-item-has-children:hover > .sub-toggle,.woocommerce-error::before, .woocommerce-info::before, .woocommerce-message::before,#primary .post .entry-content-block .entry-meta a:hover,#primary .post .entry-content-block .entry-meta span:hover,.entry-meta span:hover a,.post .entry-content-block .entry-footer span a:hover,#secondary .widget ul li a,#comments .comment-list article.comment-body .reply a,.tg-slider-widget .btn-wrapper a,.entry-content a, .related-posts-wrapper .entry-title a:hover,
+		.related-posts-wrapper .entry-meta > span a:hover{
+			color: #009933;
+	}
+
+	.blog-section .tg-blog-widget-layout-1 .tg-blog-widget:hover, #scroll-up,.header-bottom .search-wrap .search-box .searchform .btn:hover,.header-bottom .cart-wrap .flash-cart-views a span,body.transparent #masthead .header-bottom #site-navigation ul li a::before,.tg-slider-widget.slider-dark .btn-wrapper a:hover, .section-title:after,.about-section .about-content-wrapper .btn-wrapper a,.tg-service-widget .service-icon-wrap,.team-wrapper .team-content-wrapper .team-designation:after,.call-to-action-section .btn-wrapper a:hover,.blog-section .tg-blog-widget-layout-1:hover,.blog-section .tg-blog-widget-layout-2 .post-image .entry-date,.blog-section .tg-blog-widget-layout-2 .blog-content .post-readmore,.pricing-table-section .tg-pricing-table-widget:hover,.pricing-table-section .tg-pricing-table-widget.tg-pricing-table-layout-2 .pricing,.pricing-table-section .tg-pricing-table-widget.tg-pricing-table-layout-2 .btn-wrapper a,footer.footer-layout #top-footer .widget_tag_cloud .tagcloud a:hover,#secondary .widget-title:after, #secondary .searchform .btn:hover,#primary .searchform .btn:hover,  #respond #commentform .form-submit input,.woocommerce span.onsale, .woocommerce ul.products li.product .onsale,.woocommerce ul.products li.product .button,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.added_to_cart.wc-forward,.testimonial-container .swiper-pagination.testimonial-pager .swiper-pagination-bullet:hover, .testimonial-container .swiper-pagination.testimonial-pager .swiper-pagination-bullet.swiper-pagination-bullet-active,.header-bottom .searchform .btn,.navigation .nav-links a:hover, .bttn:hover, button, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover,.tg-slider-widget .btn-wrapper a:hover  {
+		background-color: #009933;
+	}
+	.feature-product-section .tg-feature-product-layout-2 .tg-container .tg-column-wrapper .tg-feature-product-widget .featured-image-desc, .tg-team-widget.tg-team-layout-3 .team-wrapper .team-img .team-social {
+		background-color: rgba( 0, 153, 51, 0.8);
+	}
+	#respond #commentform .form-submit input:hover{
+	background-color: #00851f;
+	}
+
+	.tg-slider-widget.slider-dark .btn-wrapper a:hover,.call-to-action-section .btn-wrapper a:hover,footer.footer-layout #top-footer .widget_tag_cloud .tagcloud a:hover,.woocommerce-error, .woocommerce-info, .woocommerce-message,#comments .comment-list article.comment-body .reply a::before,.tg-slider-widget .btn-wrapper a, .tg-slider-widget .btn-wrapper a:hover {
+		border-color: #009933;
+	}
+	body.transparent.header-sticky #masthead-sticky-wrapper.is-sticky #site-navigation ul li.current-flash-item a, #site-navigation ul li.current-flash-item a, body.transparent.header-sticky #masthead-sticky-wrapper #site-navigation ul li:hover > a,body.transparent #site-navigation ul li:hover .sub-toggle{
+			color: #009933;
+		}
+
+	.tg-service-widget .service-icon-wrap:after{
+			border-top-color: #009933;
+		}
+	body.transparent.header-sticky #masthead-sticky-wrapper .search-wrap .search-icon:hover, body.transparent .search-wrap .search-icon:hover, .header-bottom .search-wrap .search-icon:hover {
+	  border-color: #009933;
+	}
+	body.transparent.header-sticky #masthead-sticky-wrapper .search-wrap .search-icon:hover, body.transparent #masthead .header-bottom .search-wrap .search-icon:hover, .header-bottom .search-wrap .search-icon:hover,.breadcrumb-trail.breadcrumbs .trail-items li:first-child span:hover,.breadcrumb-trail.breadcrumbs .trail-items li span:hover a {
+	  color: #009933;
+	}
+	.woocommerce ul.products li.product .button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.added_to_cart.wc-forward:hover{
+		background-color: #00851f;
+	}
+
+	.feature-product-section .tg-feature-product-widget .featured-image-desc::before,.blog-section .row:nth-child(odd) .tg-blog-widget:hover .post-image::before{
+			border-right-color: #009933;
+		}
+	.feature-product-section .tg-feature-product-widget .featured-image-desc::before,.blog-section .row:nth-child(odd) .tg-blog-widget:hover .post-image::before,footer.footer-layout #top-footer .widget-title,.blog-section .row:nth-child(2n) .tg-blog-widget:hover .post-image::before{
+		border-left-color: #009933;
+	}
+	.blog-section .tg-blog-widget-layout-2 .entry-title a:hover,
+	.blog-section .tg-blog-widget-layout-2 .tg-blog-widget:hover .blog-content .entry-title a:hover,
+	.tg-blog-widget-layout-2 .read-more-container .entry-author:hover a,
+	.tg-blog-widget-layout-2 .read-more-container .entry-author:hover,
+	.blog-section .tg-blog-widget-layout-2 .read-more-container .read-more:hover a{
+			color: #00851f;
+		}
+
+	.tg-service-widget .service-more:hover{
+		color: #00851f;
+	}
+	@media(max-width: 980px){
+		#site-navigation ul li.menu-item-has-children .sub-toggle{
+			background-color: #009933;
+		}
+	}
+
+		@media screen and (min-width: 56.875em) {
+			.main-navigation li:hover > a,
+			.main-navigation li.focus > a {
+				color: #009933;
+			}
+		}
+	
+
+		/* Site Title */
+		.site-branding {
+			margin: 0 auto 0 0;
+		}
+
+		.site-branding .site-title,
+		.site-description {
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute !important;
+			height: 1px;
+			width: 1px;
+			overflow: hidden;
+		}
+		.logo .logo-text{
+			padding: 0;
+		}
